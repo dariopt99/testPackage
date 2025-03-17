@@ -13,4 +13,3 @@ myfunc <- function(a, b) {
   return(result)
 }
 
-#comment
